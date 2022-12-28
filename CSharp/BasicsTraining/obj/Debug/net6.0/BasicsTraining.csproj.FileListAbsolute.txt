@@ -1,0 +1,14 @@
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\BasicsTraining.exe
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\BasicsTraining.deps.json
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\BasicsTraining.runtimeconfig.json
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\BasicsTraining.dll
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\ref\BasicsTraining.dll
+E:\Manasa C#\Basics\CSharp\BasicsTraining\bin\Debug\net6.0\BasicsTraining.pdb
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.GeneratedMSBuildEditorConfig.editorconfig
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.AssemblyInfoInputs.cache
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.AssemblyInfo.cs
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.csproj.CoreCompileInputs.cache
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.dll
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\ref\BasicsTraining.dll
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.pdb
+E:\Manasa C#\Basics\CSharp\BasicsTraining\obj\Debug\net6.0\BasicsTraining.genruntimeconfig.cache
